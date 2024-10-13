@@ -1,0 +1,6 @@
+ul{
+  display: grid;
+  list-style-type: none;
+  gap: 10px;
+  grid-template-columns: repeat(5, 20px);
+}
